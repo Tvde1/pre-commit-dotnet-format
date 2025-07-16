@@ -5,7 +5,7 @@ installed.
 
 ## DEPRECATED
 Support for pre-commit has been [merged into
-`dotnet-format`](https://github.com/dotnet/format/blob/main/docs/integrations.md#pre-commitcom-hook-to-reformat). Use
+`dotnet-format`](https://github.com/dotnet/sdk/blob/main/documentation/format/docs/integrations.md#git-pre-commit-hook-to-reformat). Use
 that.
 
 ## Using dotnet-format with pre-commit:
